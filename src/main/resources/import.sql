@@ -1,0 +1,3 @@
+INSERT INTO video (id, name, link) VALUES (11, 'Gerenciando a temperatura do seu SBC', 'https://www.youtube.com/embed/FbunvqR7GLE?si=v8hIoGEt7Rhvoreo');
+INSERT INTO video (id, name, link) VALUES (12, 'Gravar imagem no NVME direto na Orange Pi', 'https://www.youtube.com/embed/iiPK3LtInJc?si=6lRN0JHPw9yPbg1A');
+INSERT INTO video (id, name, link) VALUES (13, 'Medindo a velocidade de SD Card, eMMC e NVME', 'https://www.youtube.com/embed/bXbiiOSUPfg?si=xc1VabDgmPUFWFUs');
